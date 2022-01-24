@@ -13,6 +13,10 @@
 
 ![image](https://user-images.githubusercontent.com/82156802/150711201-a12bcd40-e9b3-432f-8554-4ae345ae992c.png)
 
+![image](https://user-images.githubusercontent.com/82156802/150711536-bac8b87e-3ddb-4bad-a3b1-b8c2dbc77582.png)
+
+![image](https://user-images.githubusercontent.com/82156802/150711576-bee078e2-cf53-4349-83d5-8dc41f3545e8.png)
+
 
 # 対象国
 
