@@ -4,11 +4,11 @@
 
 ## 国(Country)
 
-人口
+### 人口
 
 ![image](https://jp.gdfreak.com/chartimage/sp0100010001199/sp010001000119900151_5.png)
 
-収入
+### 収入
 ![image](https://user-images.githubusercontent.com/82156802/150715573-7f2c751b-a515-48a5-beae-c4d63dc45359.png)
 
 | 国名 | 全体 | 一人当たりのGDP |
