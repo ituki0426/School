@@ -32,3 +32,8 @@ GDPの比較
 
 では、その代わりとなる産業は何なの？
 
+# データ
+
+1.ジニ係数
+![image](https://user-images.githubusercontent.com/82156802/150709727-f53c067a-4921-409e-b375-3fd33d759ba8.png)
+
