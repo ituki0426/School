@@ -4,6 +4,9 @@
 
 ## 国(Country)
 
+人口
+
+![image](https://jp.gdfreak.com/chartimage/sp0100010001199/sp010001000119900151_5.png)
 
 ## 農業(Agriculture)
 
