@@ -12,6 +12,8 @@
 ## 著名な建造物
 ギリシャ：ゼウス神殿
 
+![image](https://user-images.githubusercontent.com/82156802/169732532-70b805cb-24e6-47a6-9e0b-a498bc2407cd.png)
+
 イタリア：パンテオン
 
 ![image](https://user-images.githubusercontent.com/82156802/169732417-3951e145-629a-4665-b64b-b244b10cd19c.png)
