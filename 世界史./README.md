@@ -18,7 +18,9 @@
 ![image](https://user-images.githubusercontent.com/82156802/169733333-c1b3cf83-ffcb-4645-b0c5-4c95e8283932.png)
 
 アメリカ：リンカーン記念堂
+
 ![image](https://user-images.githubusercontent.com/82156802/169733396-f2b873a3-505c-4ef7-a00f-b8b1246d57d3.png)
+
 
 # コリント式
 
