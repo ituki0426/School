@@ -12,15 +12,18 @@
 荘重・重厚で、柱は太くて力強い。20の浅い溝を持ち、簡素な四角形の柱頭を持つが柱台を欠く。
 
 ギリシア本土やイタリア南部に多く、代表はアテナイのパルテノン神殿。
+
 ## 著名な建造物
+
+(1)ギリシア：ヘーパイストス神殿
 
 ![image](https://user-images.githubusercontent.com/82156802/169733333-c1b3cf83-ffcb-4645-b0c5-4c95e8283932.png)
 
-アメリカ：リンカーン記念堂
+(2)アメリカ：リンカーン記念堂
 
 ![image](https://user-images.githubusercontent.com/82156802/169733396-f2b873a3-505c-4ef7-a00f-b8b1246d57d3.png)
 
-アテナイ：パルテノン神殿
+(3)アテナイ：パルテノン神殿
 
 ![image](https://user-images.githubusercontent.com/82156802/169740129-24445b20-a556-465b-bdb8-d719c17fbc41.png)
 
@@ -32,15 +35,16 @@
 ![image](https://user-images.githubusercontent.com/82156802/169731983-30440147-062f-466b-883d-4f523b90f48d.png)
 
 ## 著名な建造物
-ギリシャ：ゼウス神殿
+
+(1)ギリシャ：ゼウス神殿
 
 ![image](https://user-images.githubusercontent.com/82156802/169732532-70b805cb-24e6-47a6-9e0b-a498bc2407cd.png)
 
-イタリア：パンテオン
+(2)イタリア：パンテオン
 
 ![image](https://user-images.githubusercontent.com/82156802/169732417-3951e145-629a-4665-b64b-b244b10cd19c.png)
 
-イギリス：ネルソン記念柱
+(3)イギリス：ネルソン記念柱
 
 ![image](https://user-images.githubusercontent.com/82156802/169732339-fd697e14-6019-4d24-bd76-7ed030ec4c89.png)
 
