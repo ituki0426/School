@@ -20,6 +20,10 @@
 
 ![image](https://user-images.githubusercontent.com/82156802/169733396-f2b873a3-505c-4ef7-a00f-b8b1246d57d3.png)
 
+アテナイ：パルテノン神殿
+
+![image](https://user-images.githubusercontent.com/82156802/169740129-24445b20-a556-465b-bdb8-d719c17fbc41.png)
+
 
 # コリント式
 
