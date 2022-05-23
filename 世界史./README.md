@@ -5,7 +5,14 @@
 
 # コリント式
 
+## 特徴
+
+![image](https://user-images.githubusercontent.com/82156802/169731983-30440147-062f-466b-883d-4f523b90f48d.png)
+
+## 著名な建造物
+
 # イオニア式
+
 ## 特徴
 
 ![image](https://user-images.githubusercontent.com/82156802/169731780-c861eb53-bb6a-4a83-b65b-dcfb44bcdcd6.png)
