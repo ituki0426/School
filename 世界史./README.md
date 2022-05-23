@@ -35,6 +35,8 @@
 
 ![image](https://user-images.githubusercontent.com/82156802/169731780-c861eb53-bb6a-4a83-b65b-dcfb44bcdcd6.png)
 
+重厚なドーリア式とはことなり、中東に渦巻き状の飾りを持ち、柱の溝は24個で深く、柱台を持つ。
+
 ## 著名な建造物
 (1)アテナイのエレクテイオン
 
