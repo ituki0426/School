@@ -7,13 +7,11 @@
 
 ![image](https://user-images.githubusercontent.com/82156802/169733418-4731fa1d-d76b-4236-b1ed-c2ffc39d187d.png)
 
-## 著名な建造物
+3つの古代ギリシャの建築様式の中で最も早く、B.C.6C~5Cに用いられる。
 
-ギリシア：パルテノン神殿
+荘重・重厚で、柱は太くて力強い。20の浅い溝を持ち、簡素な四角形の柱頭を持つが柱台を欠く。
 
-![image](https://user-images.githubusercontent.com/82156802/169733299-0195d550-0275-438f-96b0-f6032c83a3a0.png)
-
-ギリシア：ヘーパイストス神殿
+ギリシア本土やイタリア南部に多く、代表はアテナイのパルテノン神殿。
 
 ![image](https://user-images.githubusercontent.com/82156802/169733333-c1b3cf83-ffcb-4645-b0c5-4c95e8283932.png)
 
